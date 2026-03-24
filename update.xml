@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
-  <app appid='poigbjjhiemlnbiodemebehifjdfbnhe'>
+  <app appid='ojhlbfiamihflejpdokkkehbpbbgpmid'>
     <updatecheck 
       codebase='https://gunamsterG92311.github.io/NextGen_Chrome_extensions.crx/NextGen_Chrome_extensions.crx'
-      version='2.3.1' />
+      version='3.1.2' />
   </app>
 </gupdate>
