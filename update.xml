@@ -2,7 +2,7 @@
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='omikfbkgpfjjaielkonajhnmalfjobac'>
     <updatecheck 
-      codebase='https://github.com/gunamsterG92311/wfm-extension/releases/download/v2.0.2/wfm-extension.crx'
-      version='2.0.2' />
+      codebase='https://github.com/gunamsterG92311/wfm-extension/releases/download/v2.0.3/wfm-extension.crx'
+      version='2.0.3' />
   </app>
 </gupdate>
